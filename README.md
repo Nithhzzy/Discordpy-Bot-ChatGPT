@@ -54,7 +54,7 @@ If you possess an OpenAI Plus account, utilizing the OpenAI provider is recommen
 
 2. Navigate to the directory where you installed the ChatGPT Discord bot
 
-3. Run `python3 main.py` or `python main.py` to run the bot
+3. Run `python3 bot.py` or `python bot.py` to run the bot
 ---
 ## Step 2: Run the bot with Docker
 
